@@ -1,2 +1,2 @@
 
-![snake gif](https://github.com/sss-nrkw/sss-nrkw/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/sss-nrkw/sss-nrkw/blob/output/github-contribution-grid-snake.svg)
